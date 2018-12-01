@@ -54,7 +54,7 @@ The analyser provides further processing and analysis of the information about f
 ---
 
 In summary, measuring and analysing the network traffic using the IPFIX protocol can be split into the following steps:
-   1 The information obtained from the captured packets are after timestamping, sam- pling, classification, etc.; encapsulated into IPFIX messages and sent from the exporter(s) to the collector(s).
-   1 In the collector, after parsing the obtained template/data records, the obtained flow-level data are stored in a database and/or sent directly to the analyser.
-   1 The analysis of flow-level information is performed in the analyser. The data obtained can be used in a number of ways. For example, the extracted flow features can be used to produce plots and graphs about the network condition.
+1. The information obtained from the captured packets are after timestamping, sam- pling, classification, etc.; encapsulated into IPFIX messages and sent from the exporter(s) to the collector(s).
+2. In the collector, after parsing the obtained template/data records, the obtained flow-level data are stored in a database and/or sent directly to the analyser.
+3. The analysis of flow-level information is performed in the analyser. The data obtained can be used in a number of ways. For example, the extracted flow features can be used to produce plots and graphs about the network condition.
 
