@@ -4,13 +4,10 @@
 ---
 
 MONICA was a research group of the Computer Networks Laboratory (CNL) at the Technical University of Kosice, Slovak Republic, that existed nearly 10 years. The research group was founded in 2006, formerly under the *BasicMeter* name. This name was given to the group based on the first major tool (BasicMeter) that was developed by its members.
-{: .text-justify}
 
 The members of the group were composed of network and service management enthusiasts, in particular of undergraduate and graduate students studying for BSc., MSc., and PhD.  as well as university staff (assistant/associate professors and professors). The number of active MONICA contributors was around 10 members every academic year.
-{: .text-justify}
 
 Over the years the research objectives of the group expanded. As such, to match better its activities, the name of the research group was changed to MONICA. MONICA stands for the **M**onitoring and **O**ptimization of **N**etwork **I**nfrastructures, **C**ommunications and **A**pplications. 
-{: .text-justify}
 
 The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. 
 
