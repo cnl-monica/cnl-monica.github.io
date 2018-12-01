@@ -9,7 +9,14 @@ The members of the group were composed of network and service management enthusi
 
 Over the years the research objectives of the group expanded. As such, to match better its activites, the name of the reserach group was changed to MONICA. MONICA stands for the **M**onitoring and **O**ptimization of **N**etwork **I**nfrastructures, **C**ommunications and **A**pplications. 
 
-The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. Application domain specific tools and methods developed by MONICA include:
+The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. 
+
+MONICA was concluded in 2015 with the conclusion of the IPFIX working group.
+
+## Domains of research and development
+---
+
+The application domain specific tools and methods developed by MONICA include:
 
    * Usage-based accounting which allows more flexible accounting for network services than flat-rate accounting and brings advantages for both the service providers and users. Our solution contains an accounting database and additional collector functions which create accounting records by aggregation of the flow records using specified criteria.
    * SLA evaluation for tracking the fulfillment of the specified conditions between the subscriber and the provider. Our solution provides web interface for both sides with specific information about the operation and traffic parameters of the last mile. It has a modular architecture, so it is simple to add new components upon the needs of such type of users.
@@ -17,7 +24,7 @@ The main objective of MONICA was the development of network traffic flow measure
    * Adaptive Anomaly Driven Traffic Engineering (AADTE) using different dynamically applied configuration changes into the network devices, such as routing optimization, usage of QoS mechanisms or security policy enforcement. Specific optimizing changes are selected by a domain-specific decision maker module when traffic anomaly is detected.
    * Monitoring of information systems where the importance of solving security issues led us to design the monitoring tool's architecture inspired by the IPFIX. The proposed monitoring tool’s architecture involves the measurement of the operational parameters of an information system. It is easily scalable and powerful enough to handle a huge amount of monitored operations occuring in the case of DoS and DDoS attacks on a monitored information system.
 
-MONICA was concluded in 2015 with the conclusion of the IPFIX working group.
+
 
 ## Outcomes of MONICA
 ---
@@ -27,16 +34,16 @@ The tools, techniques and approaches developed by MONICA were presented on a num
 **An overview of major MONICA outcomes up to 2012 is provided in:**
    * A. Pekár, M. Révés, J. Giertl, and P. Feciľak, [“Overview and insight into the monica research group”](https://doi.org/10.2478/s13537-012-0013-9), Central European Journal of Computer Science, vol. 2, no. 3, pp. 331–343, Nov. 2012.
 
-**The adaptive aggregation method that reduces the generated IPFIX flow records by 28%:**
+**Manuscripts related to the adaptive aggregation method that reduces the generated IPFIX flow records by 28% include:**
    * A. Pekár, M. Chovanec, L. Vokorokos, E. Chovancová, P. Feciľak, and M. Michalko, [“Adaptive aggregation of flow records”](https://doi.org/10.4149/cai_2018_1_142), Computing and Informatics, vol. 37, no. 1, pp. 142–164, 2018.
    * S. Tremko, A. Pekár, J. Juhár, and J. Janitor, [“Reduction of ip flow information in network traffic monitoring systems”](https://doi.org/10.1109/ICETA.2014.7107616), in Proceedings of the 2014 12th IEEE International Conference on Emerging eLearning Technologies and Applications, ser. ICETA ’14, Dec. 2014, pp. 385–390.
    * A. Pekár, E. Chovancová, P. Fanfara, and J. Trelová, [“Issues in the passive approach of network traffic monitoring”](https://doi.org/10.1109/INES.2013.6632836), in Proceedings of the 2013 IEEE 17th International Conference on Intelligent Engineering Systems, ser. INES ’13, Jun. 2013, pp. 327–332.
 
-**SLAmeter:**
+**SLAmeter related manuscripts incldue:**
    * A. Pekár, P. Feciľak, M. Michalko, J. Giertl, and M. Révés, [“Slameter - the evaluator of network traffic parameters”](https://doi.org/10.1109/ICETA.2012.6418318), in Proceedings of the 2012 IEEE 10th International Conference on Emerging eLearning Technologies Applications, ser. ICETA ’12, Nov. 2012, pp. 291–295.
    * L. Vokorokos, J. Juhár, A. Pekár, Peter Feciľak, [“The Web Application of the SLAmeter Tool”](https://doi.org/10.1109/ICETA.2014.7107587), in Proceedings of the 2014 12th IEEE International Conference on Emerging eLearning Technologies and Applications, ser. ICETA '14, Dec. 2014, pp. 215-220.
    
-**Data warehouse for improving network monitoring efficacy:**
+**The manuscipt on the data warehouse for improving network monitoring efficacy:**
    * L. Vokorokos, A. Pekár, and N. Ádám, [“Data preprocessing for efficient evaluation of network traffic parameters”](https://doi.org/10.1109/INES.2012.6249860), in Proceedings of the 2012 IEEE 16th International Conference on Intelligent Engineering Systems, ser. INES '12, Jun. 2012, pp. 363–367.
    
 **Specification of the Analyser-Collector Protocol:**
