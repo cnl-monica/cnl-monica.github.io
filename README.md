@@ -19,7 +19,7 @@ IP flow or flow-level information refers to a set of packets sharing a common ke
 Network management related activities such as traffic engineering and classification, monitoring, accounting and profiling, or intrusion detection and prevention, are based on the analysis of the exported traffic information. The general architecture of an IPFIX-based measurement and monitoring platform is as follows:
 
 <p align="center">
-  <img src="/fig/general-arch.png" width="410" title="General architecture">
+  <img src="/fig/general-arch.png" width="410" title="General architecture" />
 </p>
 
 Traffic information is carried in *flow records*. The export of flow records represents a push-based mechanism, where the data are transmitted from the *IPFIX exporter(s)* to the *IPFIX collector(s)* over either TCP, UPD or the SCTP. The essential components of any IPFIX-based measurement platform are therefore the exporters and the collectors.
@@ -29,7 +29,7 @@ Traffic information is carried in *flow records*. The export of flow records rep
 The architecture of the exporter is as follows:
 
 <p align="center">
-  <img src="/fig/exporter.png" width="410" title="Architecture of the exporter">
+  <img src="/fig/exporter.png" width="410" title="Architecture of the exporter" />
 </p>
 
 The exporter is a device which hosts one or more exporting processes. Each exporter sends flow records to one or more collectors.
