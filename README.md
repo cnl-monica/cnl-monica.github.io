@@ -44,8 +44,8 @@ Manuscript related to the ACP protocol is provided in:
 
 ## MONICA Repositories
 
-[MyBeem](https://github.com/cnl-monica/mybeem)
-[JXColl](https://github.com/cnl-monica/jxcoll)
-[Evaluator]()
-[WebApp]()
+   * [MyBeem](https://github.com/cnl-monica/mybeem)
+   * [JXColl](https://github.com/cnl-monica/jxcoll)
+   * [Evaluator]()
+   * [WebApp]()
 
