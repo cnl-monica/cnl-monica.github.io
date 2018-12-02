@@ -7,9 +7,9 @@ The members of the group were composed of network and service management enthusi
 
 Over the years the research objectives of the group expanded. As such, to match better its activities, the name of the research group was changed to MONICA. MONICA stands for the **M**onitoring and **O**ptimization of **N**etwork **I**nfrastructures, **C**ommunications and **A**pplications. 
 
-The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. For the description of an IPFIX-based network traffic flow measurement and monitoring tool proceed to this [page](IPFIX.md).
+The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. MONICA was concluded in 2015 with the conclusion of the IPFIX working group.
 
-MONICA was concluded in 2015 with the conclusion of the IPFIX working group.
+**For a description of an IPFIX-based network traffic flow measurement and monitoring tool proceed to this [page](IPFIX.md).**
 
 ## Domains of Research and Development
 ---
@@ -58,9 +58,9 @@ The tools, techniques and approaches developed by MONICA were presented on a num
 
 ## MONICA Repositories
 
-The project repositories (including the WIKI pages, Trac, and SVN server) of MONICA were originally maintained by the members of the group at the servers of [CNL](https://www.cnl.sk). Due to the high maintanence demands, these servers were shut down in 2016 and the core repositories moved to the university [GitLab](https://git.kpi.fei.tuke.sk/monica) repository **(only available in Slovakian language)**.
+The project repositories (including the WIKI pages, Trac, and SVN) of MONICA were originally maintained by the members of the group and hosted by [CNL](https://www.cnl.sk). Due to the high maintanence demands, these servers were shut down in 2016 and the core repositories moved to the [GitLab](https://git.kpi.fei.tuke.sk/monica) repository of the university department. **Note that these GitLab repositories are available only in Slovak language!**
 
-In 2018, the core repositories of MONICA were moved again to GitHub. **The tranlation of the repositories into English language is in progress** (last updated in December 2018).
+**In 2018, the core repositories of MONICA were moved again to GitHub. The tranlation of the repositories into English language is in progress** (last updated in December 2018). The repositories are as follow:
 
    * IPFIX Exporter developed by MONICA: [MyBeem](https://github.com/cnl-monica/mybeem)
    * IPFIX Collector developed by MONICA: [JXColl](https://github.com/cnl-monica/jxcoll)
