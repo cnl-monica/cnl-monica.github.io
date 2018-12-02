@@ -1,5 +1,3 @@
-# Welcome to the GitHub Pages of the MONICA Research Group
-
 ## What is MONICA?
 ---
 
