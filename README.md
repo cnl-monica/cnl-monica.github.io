@@ -11,6 +11,10 @@ The main objective of MONICA was the development of network traffic flow measure
 
 **For a description of an IPFIX-based network traffic flow measurement and monitoring tool proceed to this [page](IPFIX.md).**
 
+#### Contact Us
+
+For more information contact Adrian Pekar (adrian.pekar[at]cnl.sk)
+
 ## Domains of Research and Development
 ---
 
