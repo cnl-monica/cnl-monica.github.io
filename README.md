@@ -60,8 +60,8 @@ The tools, techniques and approaches developed by MONICA were presented on a num
 
 The project repositories (including the WIKI pages, Trac, and SVN) of MONICA were originally maintained by the members of the group and hosted by [CNL](https://www.cnl.sk). Due to the high maintanence demands, these servers were shut down in 2016 and the core repositories moved to the [GitLab](https://git.kpi.fei.tuke.sk/monica) repository of the university department. **Note that these GitLab repositories are available only in Slovak language!**
 
-**In 2018, the core repositories of MONICA were moved again to GitHub. The tranlation of the repositories into English language is in progress** (last updated in December 2018). The repositories are as follow:
+**In 2018, the core repositories of MONICA were cloned to GitHub. The tranlation of the repositories into English language is in progress.** The repositories are as follow:
 
    * IPFIX Exporter developed by MONICA: [MyBeem](https://github.com/cnl-monica/mybeem)
    * IPFIX Collector developed by MONICA: [JXColl](https://github.com/cnl-monica/jxcoll)
-   * IPFIX Traffic Analysis application: [SLAmeter-Evaluator]() (backend), [SLAmeter-WebApp]() (frontend)
+   * IPFIX Analyser (traffic evaluator and analysis application): [SLAmeter-Evaluator]() (backend), [SLAmeter-WebApp]() (frontend)
