@@ -7,7 +7,7 @@ The members of the group were composed of network and service management enthusi
 
 Over the years the research objectives of the group expanded. As such, to match better its activities, the name of the research group was changed to MONICA. MONICA stands for the **M**onitoring and **O**ptimization of **N**etwork **I**nfrastructures, **C**ommunications and **A**pplications. 
 
-The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. 
+The main objective of MONICA was the development of network traffic flow measurement and monitoring tools and methods that are in conformity with the IPFIX protocol. For the description of an IPFIX-based network traffic flow measurement and monitoring tool proceed to this [page](IPFIX.md).
 
 MONICA was concluded in 2015 with the conclusion of the IPFIX working group.
 
