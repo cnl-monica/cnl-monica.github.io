@@ -65,11 +65,11 @@ The project repositories (including the WIKI pages, Trac, and SVN) of MONICA wer
    * IPFIX Exporter developed by MONICA: [MyBeem](https://github.com/cnl-monica/mybeem)
    * IPFIX Collector developed by MONICA: [JXColl](https://github.com/cnl-monica/jxcoll)
    * IPFIX Analyser developed by MONICA:
-      *   [SLAmeter-Evaluator]() (backend)
-      *   [SLAmeter-WebApp]() (frontend)
+      *   [SLAmeter-Evaluator](https://github.com/cnl-monica/slameter-evaluator) (data preprocessor)
+      *   [SLAmeter-WebApp](https://github.com/cnl-monica/slameter-webapp) (data visualisation)
 
 ## Contact Us
 ---
 
-For more information contact Adrian Pekar (adrian.pekar[at]cnl.sk)
+**For more information contact Adrian Pekar (adrian.pekar[at]cnl.sk)**
 
